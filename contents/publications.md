@@ -1,5 +1,7 @@
 - Marciniak, W. (1974). *Przyrządy półprzewodnikowe*. Polibudex Scientific Series.
 
+- Majkusiak, B. (2013). *Modelowanie nano obszarów dla studentów*. Polibudex Scientific Series.
+
 - Kowalska, A., Nowak, T. (2023). *AI-Driven Optimization in Photonic Circuits*. IEEE Access.
 
 - Zhang, L., Kowalski, M. (2024). *Advanced Materials for Energy Storage*. Materials Today: Proceedings.
